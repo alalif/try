@@ -6,5 +6,5 @@ Ibis adalah ya sudah
 
 == Dokumentasi 
 
-<<tw/bak.adoc#, User Guide Ibis>>
+<<ibis/user-guide-ibis.adoc#, User Guide Ibis>>
 
